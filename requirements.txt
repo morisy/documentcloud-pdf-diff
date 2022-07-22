@@ -1,3 +1,5 @@
 python-documentcloud==3.0.0
 requests
-thefuzz
+libxml2
+libxslt
+poppler
